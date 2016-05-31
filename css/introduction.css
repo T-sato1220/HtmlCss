@@ -2,7 +2,7 @@
     width: 1200px;
     height: auto;
     margin: 0 auto 0 auto;
-    background-color: #ffffff;
+    background-color: #BEDFC2;
     overflow: hidden;
 }
 
@@ -35,12 +35,7 @@
 #wrapper li{
     margin: 10px 10px 10px 10px;
 }
-#wrapper #category li {
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    color: #394548;
-}
+
 
 #wrapper #page-top {
     position: fixed;
